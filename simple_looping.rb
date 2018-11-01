@@ -17,6 +17,15 @@ def loop_iterator(number_of_times)
       break
     end
     
+    counter = 0
+ 
+loop do 
+  counter += 1
+  puts "Iteration #{counter} of the loop"
+  if counter >= 10 
+    break
+  end
+end
     
 end
 

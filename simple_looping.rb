@@ -13,6 +13,7 @@ def loop_iterator(number_of_times)
     counter = 0
     while counter = 7
     puts "Welcome to Flatirowhile counter < 7
+    counter += 1
 end
 
 def times_iterator(number_of_times)
